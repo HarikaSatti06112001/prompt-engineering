@@ -5,3 +5,4 @@ Expert Prompt Engineering: https://colab.research.google.com/drive/1MIqlCotQ1yDg
 
 Prompt Generation: https://colab.research.google.com/drive/1Vlptr5tLPipknKyllDfVhmypbdAGGzIz#scrollTo=HVIE6KBh8VFu
 
+Medium Article: https://medium.com/@harika.satti/prompt-generation-chatbot-gpt4-0e21ddf5d66a
